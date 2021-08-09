@@ -37,3 +37,8 @@ p {
 footer p {
     text-align: right;
 }
+
+img {
+    margin-bottom: 10px;
+    ;
+}
